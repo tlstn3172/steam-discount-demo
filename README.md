@@ -342,6 +342,7 @@ GET /api/games/{game_id}/price-history
 - [개발 태스크 목록](docs/TASKS.md)
 - [개발 튜토리얼](docs/TUTORIAL.md)
 - [아이디어 및 기획](docs/ideation.md)
+- [📊 프레젠테이션 (Live)](https://tlstn3172.github.io/steam-discount-demo/) - GitHub Pages에서 확인
 
 ---
 
